@@ -1,0 +1,6 @@
+name: SteveShop SDK
+version: '${project.version}'
+main: pt.steveshopsdk.SteveShopSDK
+api-version: 1.20
+authors: [BlackEnergyPT]
+website: https://www.steveshop.pt
